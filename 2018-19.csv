@@ -1,0 +1,403 @@
+Away,Date,Half_time,Home,Score
+ Juventus,Sa 18 Aug,(1-1),Chievo ,2 - 3
+ Napoli,Sa 18 Aug,(1-1),Lazio ,1 - 2
+ AS Roma,Su 19 Aug,(0-0),Torino ,0 - 1
+ SPAL,Su 19 Aug,(0-0),Bologna ,0 - 1
+ Cagliari,Su 19 Aug,(1-0),Empoli ,2 - 0
+ Udinese,Su 19 Aug,(1-0),Parma ,2 - 2
+ Inter Milan,Su 19 Aug,(1-0),Sassuolo ,1 - 0
+ Frosinone,Mo 20 Aug,(1-0),Atalanta ,4 - 0
+ Lazio,Sa 25 Aug,(1-0),Juventus ,2 - 0
+ AC Milan,Sa 25 Aug,(0-1),Napoli ,3 - 2
+ Parma,Su 26 Aug,(0-0),SPAL ,1 - 0
+ Sassuolo,Su 26 Aug,(1-0),Cagliari ,2 - 2
+ Chievo,Su 26 Aug,(2-0),Fiorentina ,6 - 1
+ Bologna,Su 26 Aug,(0-0),Frosinone ,0 - 0
+ Empoli,Su 26 Aug,(2-0),Genoa ,2 - 1
+ Torino,Su 26 Aug,(2-0),Inter Milan ,2 - 2
+ Sampdoria,Su 26 Aug,(1-0),Udinese ,1 - 0
+ Atalanta,Mo 27 Aug,(1-3),AS Roma ,3 - 3
+ AS Roma,Fr 31 Aug,(1-0),AC Milan ,2 - 1
+ Inter Milan,Sa 1 Sep,(0-0),Bologna ,0 - 3
+ Juventus,Sa 1 Sep,(1-1),Parma ,1 - 2
+ Udinese,Su 2 Sep,(0-0),Fiorentina ,1 - 0
+ Cagliari,Su 2 Sep,(0-1),Atalanta ,0 - 1
+ Empoli,Su 2 Sep,(0-0),Chievo ,0 - 0
+ Frosinone,Su 2 Sep,(0-0),Lazio ,1 - 0
+ Napoli,Su 2 Sep,(2-0),Sampdoria ,3 - 0
+ Genoa,Su 2 Sep,(4-1),Sassuolo ,5 - 3
+ SPAL,Su 2 Sep,(0-0),Torino ,1 - 0
+ Parma,Sa 15 Sep,(0-0),Inter Milan ,0 - 1
+ Fiorentina,Sa 15 Sep,(0-0),Napoli ,1 - 0
+ Sampdoria,Sa 15 Sep,(0-1),Frosinone ,0 - 5
+ Chievo,Su 16 Sep,(2-0),AS Roma ,2 - 2
+ Bologna,Su 16 Sep,(0-0),Genoa ,1 - 0
+ Sassuolo,Su 16 Sep,(0-0),Juventus ,2 - 1
+ Torino,Su 16 Sep,(1-0),Udinese ,1 - 1
+ Lazio,Su 16 Sep,(0-0),Empoli ,0 - 1
+ AC Milan,Su 16 Sep,(1-0),Cagliari ,1 - 1
+ Atalanta,Mo 17 Sep,(0-0),SPAL ,2 - 0
+ Fiorentina,We 19 Sep,(0-1),Sampdoria ,1 - 1
+ Empoli,Fr 21 Sep,(1-1),Sassuolo ,3 - 1
+ Cagliari,Sa 22 Sep,(1-0),Parma ,2 - 0
+ SPAL,Sa 22 Sep,(2-0),Fiorentina ,3 - 0
+ Inter Milan,Sa 22 Sep,(0-0),Sampdoria ,0 - 1
+ Napoli,Su 23 Sep,(0-2),Torino ,1 - 3
+ AS Roma,Su 23 Sep,(1-0),Bologna ,2 - 0
+ Udinese,Su 23 Sep,(0-0),Chievo ,0 - 2
+ Genoa,Su 23 Sep,(2-0),Lazio ,4 - 1
+ Atalanta,Su 23 Sep,(1-0),AC Milan ,2 - 2
+ Juventus,Su 23 Sep,(0-0),Frosinone ,0 - 2
+ Fiorentina,Tu 25 Sep,(1-0),Inter Milan ,2 - 1
+ Lazio,We 26 Sep,(0-0),Udinese ,1 - 2
+ Frosinone,We 26 Sep,(3-0),AS Roma ,4 - 0
+ Torino,We 26 Sep,(0-0),Atalanta ,0 - 0
+ Sampdoria,We 26 Sep,(0-0),Cagliari ,0 - 0
+ Chievo,We 26 Sep,(1-0),Genoa ,2 - 0
+ Bologna,We 26 Sep,(2-0),Juventus ,2 - 0
+ Parma,We 26 Sep,(1-0),Napoli ,3 - 0
+ Sassuolo,Th 27 Sep,(0-0),SPAL ,0 - 2
+ AC Milan,Th 27 Sep,(0-1),Empoli ,1 - 1
+ Lazio,Sa 29 Sep,(1-0),AS Roma ,3 - 1
+ Napoli,Sa 29 Sep,(1-1),Juventus ,3 - 1
+ Cagliari,Sa 29 Sep,(1-0),Inter Milan ,2 - 0
+ Udinese,Su 30 Sep,(1-1),Bologna ,2 - 1
+ Torino,Su 30 Sep,(0-0),Chievo ,0 - 1
+ Atalanta,Su 30 Sep,(0-0),Fiorentina ,2 - 0
+ Genoa,Su 30 Sep,(1-2),Frosinone ,1 - 2
+ Empoli,Su 30 Sep,(1-0),Parma ,1 - 0
+ AC Milan,Su 30 Sep,(0-1),Sassuolo ,1 - 4
+ SPAL,Mo 1 Oct,(1-1),Sampdoria ,2 - 1
+ Frosinone,Fr 5 Oct,(1-0),Torino ,3 - 2
+ Bologna,Sa 6 Oct,(1-0),Cagliari ,2 - 0
+ Juventus,Sa 6 Oct,(0-2),Udinese ,0 - 2
+ AS Roma,Sa 6 Oct,(0-1),Empoli ,0 - 2
+ Parma,Su 7 Oct,(1-3),Genoa ,1 - 3
+ Chievo,Su 7 Oct,(2-0),AC Milan ,3 - 1
+ Sampdoria,Su 7 Oct,(0-0),Atalanta ,0 - 1
+ Fiorentina,Su 7 Oct,(1-0),Lazio ,1 - 0
+ Sassuolo,Su 7 Oct,(1-0),Napoli ,2 - 0
+ Inter Milan,Su 7 Oct,(0-1),SPAL ,1 - 2
+ SPAL,Sa 20 Oct,(0-1),AS Roma ,0 - 2
+ Genoa,Sa 20 Oct,(1-0),Juventus ,1 - 1
+ Napoli,Sa 20 Oct,(0-1),Udinese ,0 - 3
+ Empoli,Su 21 Oct,(1-1),Frosinone ,3 - 3
+ Torino,Su 21 Oct,(0-1),Bologna ,2 - 2
+ Atalanta,Su 21 Oct,(0-2),Chievo ,1 - 5
+ Lazio,Su 21 Oct,(0-0),Parma ,0 - 2
+ Cagliari,Su 21 Oct,(0-0),Fiorentina ,1 - 1
+ AC Milan,Su 21 Oct,(0-0),Inter Milan ,1 - 0
+ Sassuolo,Mo 22 Oct,(0-0),Sampdoria ,0 - 0
+ Parma,Sa 27 Oct,(0-0),Atalanta ,3 - 0
+ Juventus,Sa 27 Oct,(1-0),Empoli ,1 - 2
+ Fiorentina,Sa 27 Oct,(1-1),Torino ,1 - 1
+ Bologna,Su 28 Oct,(1-1),Sassuolo ,2 - 2
+ Chievo,Su 28 Oct,(1-0),Cagliari ,2 - 1
+ Udinese,Su 28 Oct,(1-0),Genoa ,2 - 2
+ Frosinone,Su 28 Oct,(0-1),SPAL ,0 - 3
+ Sampdoria,Su 28 Oct,(2-2),AC Milan ,3 - 2
+ AS Roma,Su 28 Oct,(0-1),Napoli ,1 - 1
+ Inter Milan,Mo 29 Oct,(0-2),Lazio ,0 - 3
+ Genoa,We 31 Oct,(1-0),AC Milan ,2 - 1
+ Empoli,Fr 2 Nov,(2-0),Napoli ,5 - 1
+ Genoa,Sa 3 Nov,(2-0),Inter Milan ,5 - 0
+ AS Roma,Sa 3 Nov,(1-0),Fiorentina ,1 - 1
+ Cagliari,Sa 3 Nov,(2-1),Juventus ,3 - 1
+ SPAL,Su 4 Nov,(2-1),Lazio ,4 - 1
+ Sassuolo,Su 4 Nov,(0-1),Chievo ,0 - 2
+ Frosinone,Su 4 Nov,(0-0),Parma ,0 - 0
+ Torino,Su 4 Nov,(0-2),Sampdoria ,1 - 4
+ Atalanta,Su 4 Nov,(1-0),Bologna ,1 - 2
+ AC Milan,Su 4 Nov,(0-0),Udinese ,0 - 1
+ Fiorentina,Fr 9 Nov,(0-0),Frosinone ,1 - 1
+ Parma,Sa 10 Nov,(1-2),Torino ,1 - 2
+ Cagliari,Sa 10 Nov,(1-0),SPAL ,2 - 2
+ Napoli,Sa 10 Nov,(1-0),Genoa ,1 - 2
+ Inter Milan,Su 11 Nov,(1-0),Atalanta ,4 - 1
+ Sampdoria,Su 11 Nov,(1-0),AS Roma ,4 - 1
+ Bologna,Su 11 Nov,(2-1),Chievo ,2 - 2
+ Udinese,Su 11 Nov,(1-0),Empoli ,2 - 1
+ Lazio,Su 11 Nov,(1-1),Sassuolo ,1 - 1
+ Juventus,Su 11 Nov,(0-1),AC Milan ,0 - 2
+ AS Roma,Sa 24 Nov,(0-0),Udinese ,1 - 0
+ SPAL,Sa 24 Nov,(1-0),Juventus ,2 - 0
+ Frosinone,Sa 24 Nov,(1-0),Inter Milan ,3 - 0
+ Sassuolo,Su 25 Nov,(2-1),Parma ,2 - 1
+ Fiorentina,Su 25 Nov,(0-0),Bologna ,0 - 0
+ Atalanta,Su 25 Nov,(1-2),Empoli ,3 - 2
+ Chievo,Su 25 Nov,(0-0),Napoli ,0 - 0
+ AC Milan,Su 25 Nov,(0-0),Lazio ,1 - 1
+ Sampdoria,Su 25 Nov,(1-1),Genoa ,1 - 1
+ Torino,Mo 26 Nov,(0-0),Cagliari ,0 - 0
+ Empoli,Sa 1 Dec,(1-2),SPAL ,2 - 2
+ Juventus,Sa 1 Dec,(0-1),Fiorentina ,0 - 3
+ Bologna,Sa 1 Dec,(3-1),Sampdoria ,4 - 1
+ Parma,Su 2 Dec,(0-0),AC Milan ,2 - 1
+ Cagliari,Su 2 Dec,(1-0),Frosinone ,1 - 1
+ Udinese,Su 2 Dec,(0-0),Sassuolo ,0 - 0
+ Genoa,Su 2 Dec,(2-1),Torino ,2 - 1
+ Lazio,Su 2 Dec,(1-0),Chievo ,1 - 1
+ Inter Milan,Su 2 Dec,(0-1),AS Roma ,2 - 2
+ Napoli,Mo 3 Dec,(0-1),Atalanta ,1 - 2
+ Inter Milan,Fr 7 Dec,(0-0),Juventus ,1 - 0
+ Frosinone,Sa 8 Dec,(2-0),Napoli ,4 - 0
+ AS Roma,Sa 8 Dec,(0-2),Cagliari ,2 - 2
+ Sampdoria,Sa 8 Dec,(0-1),Lazio ,2 - 2
+ Fiorentina,Su 9 Dec,(0-0),Sassuolo ,3 - 3
+ Bologna,Su 9 Dec,(1-1),Empoli ,2 - 1
+ Chievo,Su 9 Dec,(0-0),Parma ,1 - 1
+ Atalanta,Su 9 Dec,(1-1),Udinese ,1 - 3
+ SPAL,Su 9 Dec,(1-1),Genoa ,1 - 1
+ Torino,Su 9 Dec,(0-0),AC Milan ,0 - 0
+ Udinese,Sa 15 Dec,(0-0),Inter Milan ,1 - 0
+ Juventus,Sa 15 Dec,(0-0),Torino ,0 - 1
+ Chievo,Su 16 Dec,(0-0),SPAL ,0 - 0
+ Empoli,Su 16 Dec,(1-1),Fiorentina ,3 - 1
+ Sassuolo,Su 16 Dec,(0-1),Frosinone ,0 - 2
+ Parma,Su 16 Dec,(0-0),Sampdoria ,2 - 0
+ Napoli,Su 16 Dec,(0-0),Cagliari ,0 - 1
+ Genoa,Su 16 Dec,(2-2),AS Roma ,3 - 2
+ Lazio,Mo 17 Dec,(1-0),Atalanta ,1 - 0
+ AC Milan,Tu 18 Dec,(0-0),Bologna ,0 - 0
+ Cagliari,Sa 22 Dec,(2-0),Lazio ,3 - 1
+ Fiorentina,Sa 22 Dec,(0-0),AC Milan ,0 - 1
+ Sampdoria,Sa 22 Dec,(1-1),Empoli ,2 - 4
+ Atalanta,Sa 22 Dec,(1-0),Genoa ,3 - 1
+ SPAL,Sa 22 Dec,(1-0),Napoli ,1 - 0
+ Torino,Sa 22 Dec,(0-0),Sassuolo ,1 - 1
+ Frosinone,Sa 22 Dec,(1-0),Udinese ,1 - 1
+ Inter Milan,Sa 22 Dec,(0-1),Chievo ,1 - 1
+ Bologna,Sa 22 Dec,(0-0),Parma ,0 - 0
+ AS Roma,Sa 22 Dec,(1-0),Juventus ,1 - 0
+ AC Milan,We 26 Dec,(0-0),Frosinone ,0 - 0
+ Juventus,We 26 Dec,(1-1),Atalanta ,2 - 2
+ Lazio,We 26 Dec,(0-1),Bologna ,0 - 2
+ Genoa,We 26 Dec,(1-0),Cagliari ,1 - 0
+ Parma,We 26 Dec,(0-1),Fiorentina ,0 - 1
+ Chievo,We 26 Dec,(0-0),Sampdoria ,2 - 0
+ Sassuolo,We 26 Dec,(2-0),AS Roma ,3 - 1
+ Udinese,We 26 Dec,(0-0),SPAL ,0 - 0
+ Empoli,We 26 Dec,(1-0),Torino ,3 - 0
+ Napoli,We 26 Dec,(0-0),Inter Milan ,1 - 0
+ Sampdoria,Sa 29 Dec,(1-1),Juventus ,2 - 1
+ Frosinone,Sa 29 Dec,(0-0),Chievo ,1 - 0
+ Inter Milan,Sa 29 Dec,(0-0),Empoli ,0 - 1
+ Fiorentina,Sa 29 Dec,(0-0),Genoa ,0 - 0
+ Torino,Sa 29 Dec,(0-1),Lazio ,1 - 1
+ AS Roma,Sa 29 Dec,(0-0),Parma ,0 - 2
+ Atalanta,Sa 29 Dec,(0-2),Sassuolo ,2 - 6
+ Cagliari,Sa 29 Dec,(1-0),Udinese ,2 - 0
+ Bologna,Sa 29 Dec,(1-1),Napoli ,3 - 2
+ SPAL,Sa 29 Dec,(1-1),AC Milan ,2 - 1
+ Torino,Sa 19 Jan,(2-0),AS Roma ,3 - 2
+ Parma,Sa 19 Jan,(0-1),Udinese ,1 - 2
+ Sassuolo,Sa 19 Jan,(0-0),Inter Milan ,0 - 0
+ Atalanta,Su 20 Jan,(0-2),Frosinone ,0 - 5
+ Sampdoria,Su 20 Jan,(1-1),Fiorentina ,3 - 3
+ Bologna,Su 20 Jan,(0-1),SPAL ,1 - 1
+ Empoli,Su 20 Jan,(1-0),Cagliari ,2 - 2
+ Lazio,Su 20 Jan,(2-0),Napoli ,2 - 1
+ AC Milan,Mo 21 Jan,(0-0),Genoa ,0 - 2
+ Chievo,Mo 21 Jan,(2-0),Juventus ,3 - 0
+ Cagliari,Sa 26 Jan,(2-0),Sassuolo ,3 - 0
+ Udinese,Sa 26 Jan,(1-0),Sampdoria ,4 - 0
+ Napoli,Sa 26 Jan,(0-0),AC Milan ,0 - 0
+ Fiorentina,Su 27 Jan,(1-2),Chievo ,3 - 4
+ AS Roma,Su 27 Jan,(1-3),Atalanta ,3 - 3
+ Frosinone,Su 27 Jan,(0-2),Bologna ,0 - 4
+ SPAL,Su 27 Jan,(1-0),Parma ,2 - 3
+ Inter Milan,Su 27 Jan,(1-0),Torino ,1 - 0
+ Juventus,Su 27 Jan,(0-0),Lazio ,1 - 2
+ Genoa,Mo 28 Jan,(0-1),Empoli ,1 - 3
+ Chievo,Sa 2 Feb,(1-2),Empoli ,2 - 2
+ Sampdoria,Sa 2 Feb,(2-0),Napoli ,3 - 0
+ Parma,Sa 2 Feb,(1-0),Juventus ,3 - 3
+ Torino,Su 3 Feb,(0-0),SPAL ,0 - 0
+ Sassuolo,Su 3 Feb,(1-1),Genoa ,1 - 1
+ Fiorentina,Su 3 Feb,(0-0),Udinese ,1 - 1
+ Bologna,Su 3 Feb,(0-1),Inter Milan ,0 - 1
+ AC Milan,Su 3 Feb,(0-1),AS Roma ,1 - 1
+ Lazio,Mo 4 Feb,(0-1),Frosinone ,0 - 1
+ Atalanta,Mo 4 Feb,(0-0),Cagliari ,0 - 1
+ Empoli,Th 7 Feb,(1-0),Lazio ,1 - 0
+ AS Roma,Fr 8 Feb,(0-2),Chievo ,0 - 3
+ Napoli,Sa 9 Feb,(0-0),Fiorentina ,0 - 0
+ Inter Milan,Sa 9 Feb,(0-0),Parma ,0 - 1
+ Genoa,Su 10 Feb,(1-1),Bologna ,1 - 1
+ SPAL,Su 10 Feb,(0-1),Atalanta ,2 - 1
+ Frosinone,Su 10 Feb,(0-1),Sampdoria ,0 - 1
+ Udinese,Su 10 Feb,(1-0),Torino ,1 - 0
+ Juventus,Su 10 Feb,(0-1),Sassuolo ,0 - 3
+ Cagliari,Su 10 Feb,(2-0),AC Milan ,3 - 0
+ Frosinone,Fr 15 Feb,(2-0),Juventus ,3 - 0
+ Parma,Sa 16 Feb,(0-1),Cagliari ,2 - 1
+ AC Milan,Sa 16 Feb,(1-1),Atalanta ,1 - 3
+ Fiorentina,Su 17 Feb,(1-1),SPAL ,1 - 4
+ Sassuolo,Su 17 Feb,(2-0),Empoli ,3 - 0
+ Lazio,Su 17 Feb,(0-1),Genoa ,2 - 1
+ Chievo,Su 17 Feb,(0-0),Udinese ,1 - 0
+ Sampdoria,Su 17 Feb,(0-0),Inter Milan ,2 - 1
+ Torino,Su 17 Feb,(0-0),Napoli ,0 - 0
+ Bologna,Mo 18 Feb,(0-0),AS Roma ,2 - 1
+ Empoli,Fr 22 Feb,(0-0),AC Milan ,3 - 0
+ Atalanta,Sa 23 Feb,(1-0),Torino ,2 - 0
+ AS Roma,Sa 23 Feb,(1-2),Frosinone ,2 - 3
+ Cagliari,Su 24 Feb,(0-0),Sampdoria ,1 - 0
+ Juventus,Su 24 Feb,(0-0),Bologna ,0 - 1
+ Genoa,Su 24 Feb,(0-0),Chievo ,0 - 0
+ SPAL,Su 24 Feb,(1-0),Sassuolo ,1 - 1
+ Napoli,Su 24 Feb,(0-2),Parma ,0 - 4
+ Inter Milan,Su 24 Feb,(1-2),Fiorentina ,3 - 3
+ Inter Milan,Fr 1 Mar,(2-1),Cagliari ,2 - 1
+ Parma,Sa 2 Mar,(1-2),Empoli ,3 - 3
+ Sassuolo,Sa 2 Mar,(1-0),AC Milan ,1 - 0
+ AS Roma,Sa 2 Mar,(1-0),Lazio ,3 - 0
+ Chievo,Su 3 Mar,(0-0),Torino ,3 - 0
+ Frosinone,Su 3 Mar,(0-0),Genoa ,0 - 0
+ Sampdoria,Su 3 Mar,(0-2),SPAL ,1 - 2
+ Bologna,Su 3 Mar,(1-1),Udinese ,2 - 1
+ Fiorentina,Su 3 Mar,(2-1),Atalanta ,3 - 1
+ Juventus,Su 3 Mar,(0-2),Napoli ,1 - 2
+ Udinese,Fr 8 Mar,(2-0),Juventus ,4 - 1
+ Genoa,Sa 9 Mar,(0-0),Parma ,1 - 0
+ AC Milan,Sa 9 Mar,(1-1),Chievo ,1 - 2
+ Cagliari,Su 10 Mar,(1-0),Bologna ,2 - 0
+ Torino,Su 10 Mar,(1-0),Frosinone ,1 - 2
+ SPAL,Su 10 Mar,(0-0),Inter Milan ,2 - 0
+ Atalanta,Su 10 Mar,(0-0),Sampdoria ,1 - 2
+ Napoli,Su 10 Mar,(0-0),Sassuolo ,1 - 1
+ Lazio,Su 10 Mar,(0-1),Fiorentina ,1 - 1
+ Empoli,Mo 11 Mar,(2-1),AS Roma ,2 - 1
+ Fiorentina,Fr 15 Mar,(0-0),Cagliari ,2 - 1
+ Sampdoria,Sa 16 Mar,(1-3),Sassuolo ,3 - 5
+ AS Roma,Sa 16 Mar,(1-0),SPAL ,2 - 1
+ Bologna,Sa 16 Mar,(1-2),Torino ,2 - 3
+ Juventus,Su 17 Mar,(0-0),Genoa ,2 - 0
+ Chievo,Su 17 Mar,(0-1),Atalanta ,1 - 1
+ Frosinone,Su 17 Mar,(2-0),Empoli ,2 - 1
+ Parma,Su 17 Mar,(4-0),Lazio ,4 - 1
+ Udinese,Su 17 Mar,(2-2),Napoli ,4 - 2
+ Inter Milan,Su 17 Mar,(0-1),AC Milan ,2 - 3
+ Cagliari,Fr 29 Mar,(0-3),Chievo ,0 - 3
+ Genoa,Sa 30 Mar,(1-0),Udinese ,2 - 0
+ Empoli,Sa 30 Mar,(0-0),Juventus ,1 - 0
+ AC Milan,Sa 30 Mar,(1-0),Sampdoria ,1 - 0
+ Atalanta,Su 31 Mar,(1-1),Parma ,1 - 3
+ Napoli,Su 31 Mar,(1-1),AS Roma ,1 - 4
+ Torino,Su 31 Mar,(1-1),Fiorentina ,1 - 1
+ SPAL,Su 31 Mar,(0-1),Frosinone ,0 - 1
+ Sassuolo,Su 31 Mar,(0-0),Bologna ,2 - 1
+ Lazio,Su 31 Mar,(0-1),Inter Milan ,0 - 1
+ Udinese,Tu 2 Apr,(1-0),AC Milan ,1 - 1
+ Juventus,Tu 2 Apr,(0-1),Cagliari ,0 - 2
+ Napoli,We 3 Apr,(1-1),Empoli ,2 - 1
+ Fiorentina,We 3 Apr,(1-1),AS Roma ,2 - 2
+ Parma,We 3 Apr,(2-1),Frosinone ,3 - 2
+ Inter Milan,We 3 Apr,(0-2),Genoa ,0 - 4
+ Lazio,We 3 Apr,(0-0),SPAL ,1 - 0
+ Sampdoria,We 3 Apr,(2-0),Torino ,2 - 1
+ Chievo,Th 4 Apr,(2-0),Sassuolo ,4 - 0
+ Bologna,Th 4 Apr,(4-0),Atalanta ,4 - 1
+ Torino,Sa 6 Apr,(0-0),Parma ,0 - 0
+ AC Milan,Sa 6 Apr,(0-1),Juventus ,2 - 1
+ AS Roma,Sa 6 Apr,(0-0),Sampdoria ,0 - 1
+ Frosinone,Su 7 Apr,(0-0),Fiorentina ,0 - 1
+ SPAL,Su 7 Apr,(1-1),Cagliari ,2 - 1
+ Empoli,Su 7 Apr,(3-2),Udinese ,3 - 2
+ Atalanta,Su 7 Apr,(0-0),Inter Milan ,0 - 0
+ Sassuolo,Su 7 Apr,(0-0),Lazio ,2 - 2
+ Genoa,Su 7 Apr,(1-1),Napoli ,1 - 1
+ Chievo,Mo 8 Apr,(0-0),Bologna ,3 - 0
+ Juventus,Sa 13 Apr,(0-1),SPAL ,2 - 1
+ Udinese,Sa 13 Apr,(0-0),AS Roma ,1 - 0
+ Lazio,Sa 13 Apr,(0-0),AC Milan ,1 - 0
+ Cagliari,Su 14 Apr,(0-0),Torino ,1 - 1
+ Bologna,Su 14 Apr,(0-0),Fiorentina ,0 - 0
+ Genoa,Su 14 Apr,(1-0),Sampdoria ,2 - 0
+ Parma,Su 14 Apr,(0-0),Sassuolo ,0 - 0
+ Napoli,Su 14 Apr,(0-1),Chievo ,1 - 3
+ Inter Milan,Su 14 Apr,(0-2),Frosinone ,1 - 3
+ Empoli,Mo 15 Apr,(0-0),Atalanta ,0 - 0
+ Udinese,We 17 Apr,(2-0),Lazio ,2 - 0
+ AC Milan,Sa 20 Apr,(0-0),Parma ,1 - 1
+ Sampdoria,Sa 20 Apr,(0-0),Bologna ,3 - 0
+ Frosinone,Sa 20 Apr,(1-0),Cagliari ,1 - 0
+ SPAL,Sa 20 Apr,(1-2),Empoli ,2 - 4
+ Torino,Sa 20 Apr,(0-0),Genoa ,0 - 1
+ Chievo,Sa 20 Apr,(0-0),Lazio ,1 - 2
+ Sassuolo,Sa 20 Apr,(0-1),Udinese ,1 - 1
+ Fiorentina,Sa 20 Apr,(1-1),Juventus ,2 - 1
+ AS Roma,Sa 20 Apr,(0-1),Inter Milan ,1 - 1
+ Atalanta,Mo 22 Apr,(1-0),Napoli ,1 - 2
+ Empoli,Sa 27 Apr,(0-1),Bologna ,3 - 1
+ Cagliari,Sa 27 Apr,(2-0),AS Roma ,3 - 0
+ Juventus,Sa 27 Apr,(1-0),Inter Milan ,1 - 1
+ Napoli,Su 28 Apr,(0-1),Frosinone ,0 - 2
+ Parma,Su 28 Apr,(0-1),Chievo ,1 - 1
+ Genoa,Su 28 Apr,(1-0),SPAL ,1 - 1
+ Lazio,Su 28 Apr,(0-2),Sampdoria ,1 - 2
+ AC Milan,Su 28 Apr,(0-0),Torino ,2 - 0
+ Udinese,Mo 29 Apr,(0-0),Atalanta ,2 - 0
+ Sassuolo,Mo 29 Apr,(0-1),Fiorentina ,0 - 1
+ Torino,Fr 3 May,(0-1),Juventus ,1 - 1
+ SPAL,Sa 4 May,(0-1),Chievo ,0 - 4
+ Inter Milan,Sa 4 May,(0-0),Udinese ,0 - 0
+ Fiorentina,Su 5 May,(0-0),Empoli ,1 - 0
+ Atalanta,Su 5 May,(1-1),Lazio ,1 - 3
+ Sampdoria,Su 5 May,(1-2),Parma ,3 - 3
+ Frosinone,Su 5 May,(0-2),Sassuolo ,2 - 2
+ AS Roma,Su 5 May,(0-0),Genoa ,1 - 1
+ Cagliari,Su 5 May,(0-0),Napoli ,2 - 1
+ Bologna,Mo 6 May,(1-0),AC Milan ,2 - 1
+ Genoa,Sa 11 May,(0-0),Atalanta ,2 - 1
+ Lazio,Sa 11 May,(0-1),Cagliari ,1 - 2
+ AC Milan,Sa 11 May,(0-1),Fiorentina ,0 - 1
+ Sassuolo,Su 12 May,(0-1),Torino ,3 - 2
+ Udinese,Su 12 May,(0-3),Frosinone ,1 - 3
+ Empoli,Su 12 May,(0-0),Sampdoria ,1 - 2
+ Napoli,Su 12 May,(0-0),SPAL ,1 - 2
+ Juventus,Su 12 May,(0-0),AS Roma ,2 - 0
+ Parma,Mo 13 May,(0-0),Bologna ,4 - 1
+ Chievo,Mo 13 May,(1-0),Inter Milan ,2 - 0
+ SPAL,Sa 18 May,(3-0),Udinese ,3 - 2
+ Cagliari,Sa 18 May,(0-1),Genoa ,1 - 1
+ AS Roma,Sa 18 May,(0-0),Sassuolo ,0 - 0
+ Sampdoria,Su 19 May,(0-0),Chievo ,0 - 0
+ Torino,Su 19 May,(1-0),Empoli ,4 - 1
+ Fiorentina,Su 19 May,(0-0),Parma ,1 - 0
+ Frosinone,Su 19 May,(0-0),AC Milan ,2 - 0
+ Atalanta,Su 19 May,(0-1),Juventus ,1 - 1
+ Inter Milan,Su 19 May,(1-0),Napoli ,4 - 1
+ Bologna,Mo 20 May,(1-0),Lazio ,3 - 3
+ Chievo,Sa 25 May,(0-0),Frosinone ,0 - 0
+ Napoli,Sa 25 May,(2-0),Bologna ,3 - 2
+ Lazio,Su 26 May,(0-0),Torino ,3 - 1
+ Juventus,Su 26 May,(0-0),Sampdoria ,2 - 0
+ Parma,Su 26 May,(1-0),AS Roma ,2 - 1
+ Sassuolo,Su 26 May,(1-1),Atalanta ,3 - 1
+ Udinese,Su 26 May,(1-0),Cagliari ,1 - 2
+ Genoa,Su 26 May,(0-0),Fiorentina ,0 - 0
+ Empoli,Su 26 May,(0-0),Inter Milan ,2 - 1
+ AC Milan,Su 26 May,(1-2),SPAL ,2 - 3
+455,  ,284,"Totals, ",564
+ ,"Averages, ",0.52,1.48,1.20
+ ,"Percentages, ",52%,55%,45%
+," ,Latest results",,,
+," ,Matches by date",,,
+," ,Matches by matchday",,,
+," ,Results grid",,,
+," ,Home / Away tables",,,
+," ,Wide table",,,
+," ,Form tables",,,
+," ,Goals statistics",,,
+," ,Relative performance",,,
+," ,Over / Under",,,
+," ,Scored / Conceded",,,
+," ,Home advantage",,,
+," ,Relative form",,,
+," ,Run-in analysis",,,
+," ,When goals were scored",,,
+," ,1st-half / 2nd-half",,,
+," ,First team to score",,,
+," ,Goal types",,,
+," ,Lead durations",,,

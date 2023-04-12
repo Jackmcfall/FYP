@@ -1,0 +1,406 @@
+Away,Date,Half_time,Home,Score
+ Udinese,Sa 13 Aug,(2-2),AC Milan ,4 - 2
+ Atalanta,Sa 13 Aug,(0-1),Sampdoria ,0 - 2
+ Inter Milan,Sa 13 Aug,(0-1),Lecce ,1 - 2
+ Torino,Sa 13 Aug,(0-1),Monza ,1 - 2
+ Cremonese,Su 14 Aug,(2-1),Fiorentina ,3 - 2
+ Bologna,Su 14 Aug,(0-1),Lazio ,2 - 1
+ AS Roma,Su 14 Aug,(0-1),Salernitana ,0 - 1
+ Empoli,Su 14 Aug,(1-0),Spezia ,1 - 0
+ Napoli,Mo 15 Aug,(1-2),Hellas Verona ,2 - 5
+ Sassuolo,Mo 15 Aug,(2-0),Juventus ,3 - 0
+ Lazio,Sa 20 Aug,(0-0),Torino ,0 - 0
+ Salernitana,Sa 20 Aug,(0-0),Udinese ,0 - 0
+ Spezia,Sa 20 Aug,(1-0),Inter Milan ,3 - 0
+ Lecce,Sa 20 Aug,(1-0),Sassuolo ,1 - 0
+ Fiorentina,Su 21 Aug,(0-0),Empoli ,0 - 0
+ Monza,Su 21 Aug,(2-0),Napoli ,4 - 0
+ AC Milan,Su 21 Aug,(1-0),Atalanta ,1 - 1
+ Hellas Verona,Su 21 Aug,(1-1),Bologna ,1 - 1
+ Cremonese,Mo 22 Aug,(0-0),AS Roma ,1 - 0
+ Juventus,Mo 22 Aug,(0-0),Sampdoria ,0 - 0
+ Udinese,Fr 26 Aug,(1-1),Monza ,1 - 2
+ Inter Milan,Fr 26 Aug,(1-0),Lazio ,3 - 1
+ Torino,Sa 27 Aug,(0-1),Cremonese ,1 - 2
+ AS Roma,Sa 27 Aug,(1-0),Juventus ,1 - 1
+ Bologna,Sa 27 Aug,(1-0),AC Milan ,2 - 0
+ Sassuolo,Sa 27 Aug,(2-1),Spezia ,2 - 2
+ Atalanta,Su 28 Aug,(0-0),Hellas Verona ,0 - 1
+ Sampdoria,Su 28 Aug,(2-0),Salernitana ,4 - 0
+ Napoli,Su 28 Aug,(0-0),Fiorentina ,0 - 0
+ Empoli,Su 28 Aug,(1-1),Lecce ,1 - 1
+ AC Milan,Tu 30 Aug,(0-0),Sassuolo ,0 - 0
+ Monza,Tu 30 Aug,(2-0),AS Roma ,3 - 0
+ Cremonese,Tu 30 Aug,(2-0),Inter Milan ,3 - 1
+ Hellas Verona,We 31 Aug,(1-0),Empoli ,1 - 1
+ Lazio,We 31 Aug,(0-1),Sampdoria ,1 - 1
+ Fiorentina,We 31 Aug,(1-0),Udinese ,1 - 0
+ Spezia,We 31 Aug,(1-0),Juventus ,2 - 0
+ Lecce,We 31 Aug,(1-1),Napoli ,1 - 1
+ Torino,Th 1 Sep,(1-0),Atalanta ,3 - 1
+ Salernitana,Th 1 Sep,(0-0),Bologna ,1 - 1
+ Juventus,Sa 3 Sep,(1-1),Fiorentina ,1 - 1
+ Inter Milan,Sa 3 Sep,(1-1),AC Milan ,3 - 2
+ Napoli,Sa 3 Sep,(1-1),Lazio ,1 - 2
+ Sassuolo,Su 4 Sep,(0-0),Cremonese ,0 - 0
+ Bologna,Su 4 Sep,(1-1),Spezia ,2 - 2
+ Sampdoria,Su 4 Sep,(2-1),Hellas Verona ,2 - 1
+ AS Roma,Su 4 Sep,(1-0),Udinese ,4 - 0
+ Atalanta,Mo 5 Sep,(0-0),Monza ,0 - 2
+ Empoli,Mo 5 Sep,(1-1),Salernitana ,2 - 2
+ Lecce,Mo 5 Sep,(1-0),Torino ,1 - 0
+ Spezia,Sa 10 Sep,(0-0),Napoli ,1 - 0
+ Torino,Sa 10 Sep,(0-0),Inter Milan ,1 - 0
+ AC Milan,Sa 10 Sep,(0-1),Sampdoria ,1 - 2
+ Cremonese,Su 11 Sep,(0-0),Atalanta ,1 - 1
+ Fiorentina,Su 11 Sep,(0-0),Bologna ,2 - 1
+ Monza,Su 11 Sep,(0-1),Lecce ,1 - 1
+ Udinese,Su 11 Sep,(1-0),Sassuolo ,1 - 3
+ Hellas Verona,Su 11 Sep,(0-0),Lazio ,2 - 0
+ Salernitana,Su 11 Sep,(0-2),Juventus ,2 - 2
+ AS Roma,Mo 12 Sep,(1-1),Empoli ,1 - 2
+ Lecce,Fr 16 Sep,(0-1),Salernitana ,1 - 2
+ Empoli,Sa 17 Sep,(0-0),Bologna ,0 - 1
+ Sampdoria,Sa 17 Sep,(1-1),Spezia ,2 - 1
+ Sassuolo,Sa 17 Sep,(0-0),Torino ,0 - 1
+ Inter Milan,Su 18 Sep,(1-1),Udinese ,3 - 1
+ Lazio,Su 18 Sep,(0-3),Cremonese ,0 - 4
+ Hellas Verona,Su 18 Sep,(1-0),Fiorentina ,2 - 0
+ Juventus,Su 18 Sep,(0-0),Monza ,1 - 0
+ Atalanta,Su 18 Sep,(0-1),AS Roma ,0 - 1
+ Napoli,Su 18 Sep,(0-0),AC Milan ,1 - 2
+ Torino,Sa 1 Oct,(3-1),Napoli ,3 - 1
+ AS Roma,Sa 1 Oct,(1-1),Inter Milan ,1 - 2
+ AC Milan,Sa 1 Oct,(0-0),Empoli ,1 - 3
+ Spezia,Su 2 Oct,(2-0),Lazio ,4 - 0
+ Cremonese,Su 2 Oct,(1-1),Lecce ,1 - 1
+ Monza,Su 2 Oct,(0-1),Sampdoria ,0 - 3
+ Salernitana,Su 2 Oct,(2-0),Sassuolo ,5 - 0
+ Fiorentina,Su 2 Oct,(0-0),Atalanta ,1 - 0
+ Bologna,Su 2 Oct,(1-0),Juventus ,3 - 0
+ Udinese,Mo 3 Oct,(1-0),Hellas Verona ,1 - 2
+ Inter Milan,Sa 8 Oct,,Sassuolo ,
+ Juventus,Sa 8 Oct,,AC Milan ,
+ Sampdoria,Sa 8 Oct,,Bologna ,
+ Empoli,Su 9 Oct,,Torino ,
+ Spezia,Su 9 Oct,,Monza ,
+ Hellas Verona,Su 9 Oct,,Salernitana ,
+ Atalanta,Su 9 Oct,,Udinese ,
+ Napoli,Su 9 Oct,,Cremonese ,
+ Lecce,Su 9 Oct,,AS Roma ,
+ Lazio,Mo 10 Oct,,Fiorentina ,
+ Monza,Sa 15 Oct,,Empoli ,
+ Juventus,Sa 15 Oct,,Torino ,
+ Sassuolo,Sa 15 Oct,,Atalanta ,
+ Salernitana,Su 16 Oct,,Inter Milan ,
+ Udinese,Su 16 Oct,,Lazio ,
+ Cremonese,Su 16 Oct,,Spezia ,
+ Bologna,Su 16 Oct,,Napoli ,
+ AC Milan,Su 16 Oct,,Hellas Verona ,
+ AS Roma,Mo 17 Oct,,Sampdoria ,
+ Fiorentina,Mo 17 Oct,,Lecce ,
+ Empoli,Fr 21 Oct,,Juventus ,
+ Spezia,Sa 22 Oct,,Salernitana ,
+ Monza,Sa 22 Oct,,AC Milan ,
+ Inter Milan,Sa 22 Oct,,Fiorentina ,
+ Torino,Su 23 Oct,,Udinese ,
+ Lecce,Su 23 Oct,,Bologna ,
+ Lazio,Su 23 Oct,,Atalanta ,
+ Napoli,Su 23 Oct,,AS Roma ,
+ Sampdoria,Mo 24 Oct,,Cremonese ,
+ Hellas Verona,Mo 24 Oct,,Sassuolo ,
+ Sassuolo,Sa 29 Oct,,Napoli ,
+ Juventus,Sa 29 Oct,,Lecce ,
+ Sampdoria,Sa 29 Oct,,Inter Milan ,
+ Atalanta,Su 30 Oct,,Empoli ,
+ Udinese,Su 30 Oct,,Cremonese ,
+ Fiorentina,Su 30 Oct,,Spezia ,
+ Salernitana,Su 30 Oct,,Lazio ,
+ AC Milan,Su 30 Oct,,Torino ,
+ AS Roma,Mo 31 Oct,,Hellas Verona ,
+ Bologna,Mo 31 Oct,,Monza ,
+ Lecce,Fr 4 Nov,,Udinese ,
+ Sassuolo,Sa 5 Nov,,Empoli ,
+ Cremonese,Sa 5 Nov,,Salernitana ,
+ Napoli,Sa 5 Nov,,Atalanta ,
+ Spezia,Sa 5 Nov,,AC Milan ,
+ Torino,Su 6 Nov,,Bologna ,
+ Hellas Verona,Su 6 Nov,,Monza ,
+ Fiorentina,Su 6 Nov,,Sampdoria ,
+ Lazio,Su 6 Nov,,AS Roma ,
+ Inter Milan,Su 6 Nov,,Juventus ,
+ Empoli,Tu 8 Nov,,Napoli ,
+ Udinese,Tu 8 Nov,,Spezia ,
+ AC Milan,Tu 8 Nov,,Cremonese ,
+ Atalanta,We 9 Nov,,Lecce ,
+ AS Roma,We 9 Nov,,Sassuolo ,
+ Salernitana,We 9 Nov,,Fiorentina ,
+ Bologna,We 9 Nov,,Inter Milan ,
+ Sampdoria,We 9 Nov,,Torino ,
+ Juventus,Th 10 Nov,,Hellas Verona ,
+ Monza,Th 10 Nov,,Lazio ,
+ Cremonese,Fr 11 Nov,,Empoli ,
+ Udinese,Sa 12 Nov,,Napoli ,
+ Lecce,Sa 12 Nov,,Sampdoria ,
+ Sassuolo,Sa 12 Nov,,Bologna ,
+ Inter Milan,Su 13 Nov,,Atalanta ,
+ Torino,Su 13 Nov,,AS Roma ,
+ Spezia,Su 13 Nov,,Hellas Verona ,
+ Salernitana,Su 13 Nov,,Monza ,
+ Fiorentina,Su 13 Nov,,AC Milan ,
+ Lazio,Su 13 Nov,,Juventus ,
+ AC Milan,We 4 Jan,,Salernitana ,
+ Sampdoria,We 4 Jan,,Sassuolo ,
+ Atalanta,We 4 Jan,,Spezia ,
+ Hellas Verona,We 4 Jan,,Torino ,
+ Bologna,We 4 Jan,,AS Roma ,
+ Lazio,We 4 Jan,,Lecce ,
+ Juventus,We 4 Jan,,Cremonese ,
+ Monza,We 4 Jan,,Fiorentina ,
+ Napoli,We 4 Jan,,Inter Milan ,
+ Empoli,We 4 Jan,,Udinese ,
+ Sassuolo,Sa 7 Jan,,Fiorentina ,
+ Udinese,Sa 7 Jan,,Juventus ,
+ Inter Milan,Sa 7 Jan,,Monza ,
+ Torino,Su 8 Jan,,Salernitana ,
+ Empoli,Su 8 Jan,,Lazio ,
+ Lecce,Su 8 Jan,,Spezia ,
+ Napoli,Su 8 Jan,,Sampdoria ,
+ AS Roma,Su 8 Jan,,AC Milan ,
+ Cremonese,Mo 9 Jan,,Hellas Verona ,
+ Atalanta,Mo 9 Jan,,Bologna ,
+ Juventus,Fr 13 Jan,,Napoli ,
+ Monza,Sa 14 Jan,,Cremonese ,
+ AC Milan,Sa 14 Jan,,Lecce ,
+ Hellas Verona,Sa 14 Jan,,Inter Milan ,
+ Lazio,Su 15 Jan,,Sassuolo ,
+ Spezia,Su 15 Jan,,Torino ,
+ Bologna,Su 15 Jan,,Udinese ,
+ Salernitana,Su 15 Jan,,Atalanta ,
+ Fiorentina,Su 15 Jan,,AS Roma ,
+ Sampdoria,Mo 16 Jan,,Empoli ,
+ Lecce,Sa 21 Jan,,Hellas Verona ,
+ Napoli,Sa 21 Jan,,Salernitana ,
+ Torino,Sa 21 Jan,,Fiorentina ,
+ Udinese,Su 22 Jan,,Sampdoria ,
+ Sassuolo,Su 22 Jan,,Monza ,
+ AS Roma,Su 22 Jan,,Spezia ,
+ Atalanta,Su 22 Jan,,Juventus ,
+ Cremonese,Mo 23 Jan,,Bologna ,
+ Empoli,Mo 23 Jan,,Inter Milan ,
+ AC Milan,Tu 24 Jan,,Lazio ,
+ Spezia,Fr 27 Jan,,Bologna ,
+ Salernitana,Fr 27 Jan,,Lecce ,
+ Torino,Sa 28 Jan,,Empoli ,
+ Inter Milan,Sa 28 Jan,,Cremonese ,
+ Sampdoria,Sa 28 Jan,,Atalanta ,
+ Sassuolo,Su 29 Jan,,AC Milan ,
+ Monza,Su 29 Jan,,Juventus ,
+ Fiorentina,Su 29 Jan,,Lazio ,
+ AS Roma,Su 29 Jan,,Napoli ,
+ Hellas Verona,Mo 30 Jan,,Udinese ,
+ Lecce,Sa 4 Feb,,Cremonese ,14:00
+ Empoli,Sa 4 Feb,,AS Roma ,17:00
+ Atalanta,Sa 4 Feb,,Sassuolo ,19:45
+ Napoli,Su 5 Feb,,Spezia ,11:30
+ Udinese,Su 5 Feb,,Torino ,14:00
+ Bologna,Su 5 Feb,,Fiorentina ,17:00
+ AC Milan,Su 5 Feb,,Inter Milan ,19:45
+ Lazio,Mo 6 Feb,,Hellas Verona ,17:30
+ Sampdoria,Mo 6 Feb,,Monza ,19:45
+ Juventus,Tu 7 Feb,,Salernitana ,19:45
+ Torino,Fr 10 Feb,,AC Milan ,19:45
+ Spezia,Sa 11 Feb,,Empoli ,14:00
+ AS Roma,Sa 11 Feb,,Lecce ,17:00
+ Atalanta,Sa 11 Feb,,Lazio ,19:45
+ Sassuolo,Su 12 Feb,,Udinese ,11:30
+ Monza,Su 12 Feb,,Bologna ,14:00
+ Fiorentina,Su 12 Feb,,Juventus ,17:00
+ Cremonese,Su 12 Feb,,Napoli ,19:45
+ Salernitana,Mo 13 Feb,,Hellas Verona ,17:30
+ Inter Milan,Mo 13 Feb,,Sampdoria ,19:45
+ Napoli,Fr 17 Feb,,Sassuolo ,19:45
+ Bologna,Sa 18 Feb,,Sampdoria ,14:00
+ AC Milan,Sa 18 Feb,,Monza ,17:00
+ Udinese,Sa 18 Feb,,Inter Milan ,19:45
+ Lecce,Su 19 Feb,,Atalanta ,11:30
+ Empoli,Su 19 Feb,,Fiorentina ,14:00
+ Lazio,Su 19 Feb,,Salernitana ,14:00
+ Juventus,Su 19 Feb,,Spezia ,17:00
+ Hellas Verona,Su 19 Feb,,AS Roma ,19:45
+ Cremonese,Mo 20 Feb,,Torino ,19:45
+ Napoli,Sa 25 Feb,,Empoli ,17:00
+ Sassuolo,Sa 25 Feb,,Lecce ,19:45
+ Inter Milan,Su 26 Feb,,Bologna ,11:30
+ Monza,Su 26 Feb,,Salernitana ,14:00
+ Spezia,Su 26 Feb,,Udinese ,17:00
+ Atalanta,Su 26 Feb,,AC Milan ,19:45
+ Fiorentina,Mo 27 Feb,,Hellas Verona ,17:30
+ Sampdoria,Mo 27 Feb,,Lazio ,19:45
+ AS Roma,Tu 28 Feb,,Cremonese ,17:30
+ Torino,Tu 28 Feb,,Juventus ,19:45
+ Lazio,Fr 3 Mar,,Napoli ,19:45
+ Empoli,Sa 4 Mar,,Monza ,14:00
+ Udinese,Sa 4 Mar,,Atalanta ,17:00
+ AC Milan,Sa 4 Mar,,Fiorentina ,19:45
+ Hellas Verona,Su 5 Mar,,Spezia ,11:30
+ Salernitana,Su 5 Mar,,Sampdoria ,14:00
+ Lecce,Su 5 Mar,,Inter Milan ,17:00
+ Juventus,Su 5 Mar,,AS Roma ,19:45
+ Cremonese,Mo 6 Mar,,Sassuolo ,17:30
+ Bologna,Mo 6 Mar,,Torino ,19:45
+ Inter Milan,Fr 10 Mar,,Spezia ,19:45
+ Udinese,Sa 11 Mar,,Empoli ,14:00
+ Atalanta,Sa 11 Mar,,Napoli ,17:00
+ Lazio,Sa 11 Mar,,Bologna ,19:45
+ Torino,Su 12 Mar,,Lecce ,11:30
+ Fiorentina,Su 12 Mar,,Cremonese ,14:00
+ Monza,Su 12 Mar,,Hellas Verona ,14:00
+ Sassuolo,Su 12 Mar,,AS Roma ,17:00
+ Sampdoria,Su 12 Mar,,Juventus ,19:45
+ Salernitana,Mo 13 Mar,,AC Milan ,19:45
+ Spezia,Fr 17 Mar,,Sassuolo ,17:30
+ Empoli,Fr 17 Mar,,Atalanta ,19:45
+ Cremonese,Sa 18 Mar,,Monza ,14:00
+ Bologna,Sa 18 Mar,,Salernitana ,17:00
+ AC Milan,Sa 18 Mar,,Udinese ,19:45
+ Hellas Verona,Su 19 Mar,,Sampdoria ,11:30
+ Lecce,Su 19 Mar,,Fiorentina ,14:00
+ Napoli,Su 19 Mar,,Torino ,14:00
+ AS Roma,Su 19 Mar,,Lazio ,17:00
+ Juventus,Su 19 Mar,,Inter Milan ,19:45
+ Salernitana,Sa 1 Apr,,Spezia ,13:00
+ Fiorentina,Sa 1 Apr,,Inter Milan ,16:00
+ Hellas Verona,Sa 1 Apr,,Juventus ,18:45
+ Atalanta,Su 2 Apr,,Cremonese ,10:30
+ Lazio,Su 2 Apr,,Monza ,13:00
+ Torino,Su 2 Apr,,Sassuolo ,13:00
+ Sampdoria,Su 2 Apr,,AS Roma ,16:00
+ AC Milan,Su 2 Apr,,Napoli ,18:45
+ Lecce,Mo 3 Apr,,Empoli ,16:30
+ Udinese,Mo 3 Apr,,Bologna ,18:45
+ Napoli,Sa 8 Apr,,Lecce ,10:30
+ Monza,Sa 8 Apr,,Udinese ,10:30
+ Spezia,Sa 8 Apr,,Fiorentina ,12:30
+ Inter Milan,Sa 8 Apr,,Salernitana ,12:30
+ Empoli,Sa 8 Apr,,AC Milan ,14:30
+ Cremonese,Sa 8 Apr,,Sampdoria ,14:30
+ Bologna,Sa 8 Apr,,Atalanta ,16:30
+ AS Roma,Sa 8 Apr,,Torino ,16:30
+ Sassuolo,Sa 8 Apr,,Hellas Verona ,18:45
+ Juventus,Sa 8 Apr,,Lazio ,18:45
+ Udinese,Su 16 Apr,,AS Roma ,00:00
+ AC Milan,Su 16 Apr,,Bologna ,00:00
+ Empoli,Su 16 Apr,,Cremonese ,00:00
+ Atalanta,Su 16 Apr,,Fiorentina ,00:00
+ Monza,Su 16 Apr,,Inter Milan ,00:00
+ Sampdoria,Su 16 Apr,,Lecce ,00:00
+ Hellas Verona,Su 16 Apr,,Napoli ,00:00
+ Juventus,Su 16 Apr,,Sassuolo ,00:00
+ Lazio,Su 16 Apr,,Spezia ,00:00
+ Salernitana,Su 16 Apr,,Torino ,00:00
+ Lecce,Su 23 Apr,,AC Milan ,00:00
+ AS Roma,Su 23 Apr,,Atalanta ,00:00
+ Inter Milan,Su 23 Apr,,Empoli ,00:00
+ Bologna,Su 23 Apr,,Hellas Verona ,00:00
+ Napoli,Su 23 Apr,,Juventus ,00:00
+ Torino,Su 23 Apr,,Lazio ,00:00
+ Fiorentina,Su 23 Apr,,Monza ,00:00
+ Sassuolo,Su 23 Apr,,Salernitana ,00:00
+ Spezia,Su 23 Apr,,Sampdoria ,00:00
+ Cremonese,Su 23 Apr,,Udinese ,00:00
+ AC Milan,Su 30 Apr,,AS Roma ,00:00
+ Juventus,Su 30 Apr,,Bologna ,00:00
+ Hellas Verona,Su 30 Apr,,Cremonese ,00:00
+ Sampdoria,Su 30 Apr,,Fiorentina ,00:00
+ Lazio,Su 30 Apr,,Inter Milan ,00:00
+ Udinese,Su 30 Apr,,Lecce ,00:00
+ Salernitana,Su 30 Apr,,Napoli ,00:00
+ Empoli,Su 30 Apr,,Sassuolo ,00:00
+ Monza,Su 30 Apr,,Spezia ,00:00
+ Atalanta,Su 30 Apr,,Torino ,00:00
+ Cremonese,We 3 May,,AC Milan ,00:00
+ Spezia,We 3 May,,Atalanta ,00:00
+ Bologna,We 3 May,,Empoli ,00:00
+ Inter Milan,We 3 May,,Hellas Verona ,00:00
+ Lecce,We 3 May,,Juventus ,00:00
+ Sassuolo,We 3 May,,Lazio ,00:00
+ AS Roma,We 3 May,,Monza ,00:00
+ Fiorentina,We 3 May,,Salernitana ,00:00
+ Torino,We 3 May,,Sampdoria ,00:00
+ Napoli,We 3 May,,Udinese ,00:00
+ Lazio,Su 7 May,,AC Milan ,00:00
+ Inter Milan,Su 7 May,,AS Roma ,00:00
+ Juventus,Su 7 May,,Atalanta ,00:00
+ Spezia,Su 7 May,,Cremonese ,00:00
+ Salernitana,Su 7 May,,Empoli ,00:00
+ Hellas Verona,Su 7 May,,Lecce ,00:00
+ Fiorentina,Su 7 May,,Napoli ,00:00
+ Bologna,Su 7 May,,Sassuolo ,00:00
+ Monza,Su 7 May,,Torino ,00:00
+ Sampdoria,Su 7 May,,Udinese ,00:00
+ AS Roma,Su 14 May,,Bologna ,00:00
+ Udinese,Su 14 May,,Fiorentina ,00:00
+ Torino,Su 14 May,,Hellas Verona ,00:00
+ Sassuolo,Su 14 May,,Inter Milan ,00:00
+ Cremonese,Su 14 May,,Juventus ,00:00
+ Lecce,Su 14 May,,Lazio ,00:00
+ Napoli,Su 14 May,,Monza ,00:00
+ Atalanta,Su 14 May,,Salernitana ,00:00
+ Empoli,Su 14 May,,Sampdoria ,00:00
+ AC Milan,Su 14 May,,Spezia ,00:00
+ Sampdoria,Su 21 May,,AC Milan ,00:00
+ Salernitana,Su 21 May,,AS Roma ,00:00
+ Hellas Verona,Su 21 May,,Atalanta ,00:00
+ Bologna,Su 21 May,,Cremonese ,00:00
+ Juventus,Su 21 May,,Empoli ,00:00
+ Spezia,Su 21 May,,Lecce ,00:00
+ Inter Milan,Su 21 May,,Napoli ,00:00
+ Monza,Su 21 May,,Sassuolo ,00:00
+ Fiorentina,Su 21 May,,Torino ,00:00
+ Lazio,Su 21 May,,Udinese ,00:00
+ Napoli,Su 28 May,,Bologna ,00:00
+ AS Roma,Su 28 May,,Fiorentina ,00:00
+ Empoli,Su 28 May,,Hellas Verona ,00:00
+ Atalanta,Su 28 May,,Inter Milan ,00:00
+ AC Milan,Su 28 May,,Juventus ,00:00
+ Cremonese,Su 28 May,,Lazio ,00:00
+ Lecce,Su 28 May,,Monza ,00:00
+ Udinese,Su 28 May,,Salernitana ,00:00
+ Sassuolo,Su 28 May,,Sampdoria ,00:00
+ Torino,Su 28 May,,Spezia ,00:00
+ Hellas Verona,Su 4 Jun,,AC Milan ,00:00
+ Spezia,Su 4 Jun,,AS Roma ,00:00
+ Monza,Su 4 Jun,,Atalanta ,00:00
+ Salernitana,Su 4 Jun,,Cremonese ,00:00
+ Lazio,Su 4 Jun,,Empoli ,00:00
+ Bologna,Su 4 Jun,,Lecce ,00:00
+ Sampdoria,Su 4 Jun,,Napoli ,00:00
+ Fiorentina,Su 4 Jun,,Sassuolo ,00:00
+ Inter Milan,Su 4 Jun,,Torino ,00:00
+ Juventus,Su 4 Jun,,Udinese ,00:00
+227,  ,154,"Totals, ",295
+ ,"Averages, ",0.49,1.48,1.14
+ ,"Percentages, ",49%,57%,43%
+," ,Latest results",,,
+," ,Matches by date",,,
+," ,Matches by matchday",,,
+," ,Results grid",,,
+," ,Home / Away tables",,,
+," ,Wide table",,,
+," ,Form tables",,,
+," ,Scorers",,,
+," ,Corner stats",,,
+," ,Goals statistics",,,
+," ,Relative performance",,,
+," ,Over / Under",,,
+," ,Scored / Conceded",,,
+," ,Home advantage",,,
+," ,Relative form",,,
+," ,Run-in analysis",,,
+," ,When goals were scored",,,
+,",1st-half / 2nd-half",,,
+," ,First team to score",,,
+," ,Goal types",,,
+," ,Lead durations",,,
+," ,Points Won/Lost",,,
