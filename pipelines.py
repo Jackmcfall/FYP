@@ -7,7 +7,12 @@
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
 
+import csv
+import itertools
 
-class SerieaPipeline:
+from SerieA.SerieA_2.SerieA_2 import items
+
+
+class Seriea2Pipeline(object):
     def process_item(self, item, spider):
         return item

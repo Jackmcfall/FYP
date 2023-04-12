@@ -7,16 +7,9 @@ import scrapy
 
 
 class SerieaItem(scrapy.Item):
-    Day = scrapy.Field()
     Date = scrapy.Field()
-    Time = scrapy.Field()
     Home = scrapy.Field()
     Score = scrapy.Field()
     Away = scrapy.Field()
-    Attendance = scrapy.Field()
-    Venue = scrapy.Field()
+    Half_time = scrapy.Field()
     pass
-
-
-
-

@@ -1,4 +1,4 @@
-# Scrapy settings for SerieA project
+# Scrapy settings for SerieA_2 project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -7,10 +7,10 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'SerieA'
+BOT_NAME = 'SerieA_2'
 
-SPIDER_MODULES = ['SerieA.spiders']
-NEWSPIDER_MODULE = 'SerieA.spiders'
+SPIDER_MODULES = ['SerieA_2.spiders']
+NEWSPIDER_MODULE = 'SerieA_2.spiders'
 
 DEPTH_PRIORITY = 1
 CONCURRENT_REQUESTS = 1
@@ -19,12 +19,12 @@ SCHEDULER_MEMORY_QUEUE = 'scrapy.squeues.FifoMemoryQueue'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'SerieA (+http://www.yourdomain.com)'
+#USER_AGENT = 'SerieA_2 (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 
-FEED_URI = '2022-23.csv'
+FEED_URI = '2020/21.csv'
 FEED_FORMAT = 'csv'
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
@@ -53,13 +53,13 @@ FEED_FORMAT = 'csv'
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'SerieA.middlewares.SerieaSpiderMiddleware': 543,
+#    'SerieA_2.middlewares.Seriea2SpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'SerieA.middlewares.SerieaDownloaderMiddleware': 543,
+#    'SerieA_2.middlewares.Seriea2DownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -71,7 +71,7 @@ FEED_FORMAT = 'csv'
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'SerieA.pipelines.Seriea2Pipeline': 300,
+#    'SerieA_2.pipelines.Seriea2Pipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
